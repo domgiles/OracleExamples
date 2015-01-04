@@ -6,3 +6,4 @@ AS
       cust_id INTEGER)
     RETURN intarray;
 END SIMPLEPACKAGE;
+/
