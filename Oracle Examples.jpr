@@ -13,6 +13,16 @@
       <string v="oracle.ide.model.ResourcePaths/resourcesContentSet"/>
    </list>
    <value n="defaultPackage" v="com.dom.examples"/>
+   <hash n="oracle.ide.model.ResourcePaths">
+      <hash n="resourcesContentSet">
+         <list n="pattern-filters">
+            <string v="+**"/>
+         </list>
+         <list n="url-path">
+            <url path="."/>
+         </list>
+      </hash>
+   </hash>
    <hash n="oracle.ide.model.TechnologyScopeConfiguration">
       <list n="technologyScope">
          <string v="Ant"/>
